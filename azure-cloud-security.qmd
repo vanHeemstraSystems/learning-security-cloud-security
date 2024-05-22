@@ -1,5 +1,0 @@
----
-title: "Azure Cloud Security"
----
-
-More ...     

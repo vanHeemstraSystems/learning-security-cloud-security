@@ -1,17 +1,31 @@
 [
   {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Security - Cloud Security"
+  },
+  {
+    "objectID": "google-cloud-security.html",
+    "href": "google-cloud-security.html",
+    "title": "Google Cloud Security",
+    "section": "",
+    "text": "More …",
+    "crumbs": [
+      "Azure Cloud Security",
+      "Google Cloud Security"
+    ]
+  },
+  {
     "objectID": "azure-cloud-security.html",
     "href": "azure-cloud-security.html",
     "title": "Azure Cloud Security",
     "section": "",
-    "text": "More …"
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Learning Security - Cloud Security",
-    "section": "",
-    "text": "Table of contents\n\nLearning Security - Cloud Security"
+    "text": "More …",
+    "crumbs": [
+      "Azure Cloud Security"
+    ]
   },
   {
     "objectID": "about.html",
@@ -19,13 +33,6 @@
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "google-cloud-security.html",
-    "href": "google-cloud-security.html",
-    "title": "Google Cloud Security",
-    "section": "",
-    "text": "More …"
   },
   {
     "objectID": "index.html",
